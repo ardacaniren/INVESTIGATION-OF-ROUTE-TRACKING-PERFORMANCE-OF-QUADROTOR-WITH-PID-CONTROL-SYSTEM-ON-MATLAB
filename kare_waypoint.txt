@@ -1,0 +1,1 @@
+Waypoints = [InitialPosition; 0 20 -7; 20 20 -7; 20 0 -7; 0 0 -7;]
